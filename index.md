@@ -24,11 +24,11 @@
     </div>
     <script>
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/Liver_Level_Build.loader.js";
+      var loaderUrl = buildUrl + "/Liver_Level_Build_Final.loader.js";
       var config = {
-        dataUrl: buildUrl + "/Liver_Level_Build.data.unityweb",
-        frameworkUrl: buildUrl + "/Liver_Level_Build.framework.js.unityweb",
-        codeUrl: buildUrl + "/Liver_Level_Build.wasm.unityweb",
+        dataUrl: buildUrl + "/Liver_Level_Build_Final.data.unityweb",
+        frameworkUrl: buildUrl + "/Liver_Level_Build_Final.framework.js.unityweb",
+        codeUrl: buildUrl + "/Liver_Level_Build_Final.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "Mummy's Curse 3D",
